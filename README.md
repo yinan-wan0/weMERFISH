@@ -9,9 +9,8 @@ This repo contains the code for
   image registration
   cell segmentation
   dot to cell assignment
+  MERFISH decoding of dot identity
 
-3) MERFISH decoding of dot indentity
+3) cell clustering and cell type analysis
 
-4) cell clustering and cell type analysis
-
-5) integration of single cell multiome data and weMERFISH data
+4) integration of single cell multiome data and weMERFISH data
