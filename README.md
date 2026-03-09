@@ -5,11 +5,11 @@ This repo contains the code for
 1) designing primary DNA probes against endogeneous RNAs including sequences homologous to endogeneous RNAs, sequences homologous to linker oligos and primers for PCR amplification and reverse transcription, designing gene-specific linker probes and amplification and read-out probes
   
 2) image processing including
-  dot detection
-  image registration
-  cell segmentation
-  dot to cell assignment
-  MERFISH decoding of dot identity
+  * dot detection
+  * image registration
+  * cell segmentation
+  * dot to cell assignment
+  * MERFISH decoding of dot identity
 
 3) cell clustering and cell type analysis
 
